@@ -1,1 +1,1 @@
-0x00 Shell basics Readme
+README for shell permissions
